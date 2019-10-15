@@ -5,5 +5,4 @@ These following projects are on the way please wait !
 - NEWS Recommend System (Dimensional Reduction)
 
 
-I'm doing my best & will finish these ASAP.
-:)
+I'm doing my best & will finish these ASAP  :)
